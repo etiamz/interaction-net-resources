@@ -98,7 +98,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2001
 
- - Fernández, Maribel, Ian Mackie, and Jorge Sousa Pinto. "Combining interaction nets with externally defined programs." (2001).
+ - Fernández, Maribel, Ian Mackie, and Jorge Sousa Pinto. "Combining interaction nets with externally defined programs." (2001). $${\textbf{\color{thistle}input-output}}$$
    <br>[URL](https://core.ac.uk/download/pdf/55602454.pdf), [webarchive](http://web.archive.org/web/20251016073740/https://core.ac.uk/download/pdf/55602454.pdf)
 
 ### 2002
@@ -206,7 +206,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Guerrini, Stefano, Thomas Leventis, and Marco Solieri. "Deep into optimality–complexity and correctness of sharing implementation of bounded logics." Third International Workshop on Developments in Implicit Complexity. 2012. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://ms.xt3.it/research/DeepIntoOptimality_2012-02-17.pdf), [webarchive](http://web.archive.org/web/20251016072157/https://ms.xt3.it/research/DeepIntoOptimality_2012-02-17.pdf)
- - Jiresch, Eugen Robert Winfried. Extending interaction nets towards the real world. Diss. Technische Universität Wien, 2012.
+ - Jiresch, Eugen Robert Winfried. Extending interaction nets towards the real world. Diss. Technische Universität Wien, 2012. $${\textbf{\color{thistle}input-output}}$$
    <br>[URL](https://repositum.tuwien.at/bitstream/20.500.12708/12949/2/Jiresch%20Eugen%20Robert%20Winfried%20-%202012%20-%20Extending%20interaction%20nets%20towards%20the...pdf), [webarchive](http://web.archive.org/web/20251016072103/https://repositum.tuwien.at/bitstream/20.500.12708/12949/2/Jiresch%20Eugen%20Robert%20Winfried%20-%202012%20-%20Extending%20interaction%20nets%20towards%20the...pdf)
 
 ### 2013
@@ -282,5 +282,5 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Huber, Nikolaus, and Wang Yi. "An Encoding of Interaction Nets in OCaml." arXiv preprint arXiv:2503.20463 (2025). $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://arxiv.org/pdf/2503.20463), [webarchive](http://web.archive.org/web/20251016070906/https://arxiv.org/pdf/2503.20463)
- - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{thistle}input-output}}$$
    <br>[URL](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
