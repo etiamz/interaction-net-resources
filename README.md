@@ -26,7 +26,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989.
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96718)
- - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{purple}optimality}}$$
+ - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96711)
 
 ### 1990
@@ -36,7 +36,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1992
 
- - Gonthier, Georges, Martín Abadi, and Jean-Jacques Lévy. "The geometry of optimal lambda reduction." Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1992. $${\textbf{\color{purple}optimality}}$$
+ - Gonthier, Georges, Martín Abadi, and Jean-Jacques Lévy. "The geometry of optimal lambda reduction." Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1992. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/143165.143172)
 
 ### 1994
@@ -46,36 +46,36 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1995
 
- - Mackie, Ian. "The geometry of interaction machine." Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1995.
+ - Mackie, Ian. "The geometry of interaction machine." Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1995. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/199448.199483)
 
 ### 1996
 
  - Asperti, Andrea, and Cosimo Laneve. "Interaction Systems II: the practice of optimal reductions." Theoretical Computer Science 159.2 (1996): 191-244. $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/0304397595000623/pdf?md5=842ebd201d36c01e835ecb2c52014052&pid=1-s2.0-0304397595000623-main.pdf)
- - Lawall, Julia L., and Harry G. Mairson. "Optimality and inefficiency: what isn't a cost model of the lambda calculus?." ACM Sigplan Notices 31.6 (1996): 92-101. $${\textbf{\color{purple}optimality}}$$
+ - Lawall, Julia L., and Harry G. Mairson. "Optimality and inefficiency: what isn't a cost model of the lambda calculus?." ACM Sigplan Notices 31.6 (1996): 92-101. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/232629.232639)
- - Asperti, Andrea, Cecilia Giovannetti, and Andrea Naletto. "The Bologna optimal higher-order machine." Journal of Functional Programming 6.6 (1996): 763-810. $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea, Cecilia Giovannetti, and Andrea Naletto. "The Bologna optimal higher-order machine." Journal of Functional Programming 6.6 (1996): 763-810. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://scispace.com/pdf/the-bologna-optimal-higher-order-machine-2ty9tlqc1w.pdf), [webarchive](http://web.archive.org/web/20251016074139/https://scispace.com/pdf/the-bologna-optimal-higher-order-machine-2ty9tlqc1w.pdf)
- - Danos, Vincent, and Laurent Regnier. "Reversible, Irreversible and Optimal λ-machines." Electronic Notes in Theoretical Computer Science 3 (1996): 40-60. $${\textbf{\color{purple}optimality}}$$
+ - Danos, Vincent, and Laurent Regnier. "Reversible, Irreversible and Optimal λ-machines." Electronic Notes in Theoretical Computer Science 3 (1996): 40-60. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397599000493)
 
 ### 1997
 
  - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540197926432)
- - Asperti, Andrea, and Juliusz Chroboczek. "Safe Operators: Brackets Closed Forever Optimizing Optimal λ-Calculus Implementations: Optimizing Optimal λ-Calculus Implementations." Applicable Algebra in Engineering, Communication and Computing 8.6 (1997): 437-468. $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea, and Juliusz Chroboczek. "Safe Operators: Brackets Closed Forever Optimizing Optimal λ-Calculus Implementations: Optimizing Optimal λ-Calculus Implementations." Applicable Algebra in Engineering, Communication and Computing 8.6 (1997): 437-468. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/content/pdf/10.1007/s002000050083.pdf)
- - Asperti, Andrea. "P= NP, up to sharing." (1997). $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea. "P= NP, up to sharing." (1997). $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.researchgate.net/publication/2758968_P_NP_up_to_sharing)
 
 ### 1998
 
- - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998.
+ - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
- - Asperti, Andrea, and Harry G. Mairson. "Parallel beta reduction is not elementary recursive." Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1998. $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea, and Harry G. Mairson. "Parallel beta reduction is not elementary recursive." Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1998. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/268946.268971)
  - Fernández, Maribel, and Ian Mackie. "Interaction nets and term-rewriting systems." Theoretical Computer Science 190.1 (1998): 3-39.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397597000820)
@@ -89,7 +89,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Pinto, Jorge Sousa. "Sequential and concurrent abstract machines for interaction nets." International Conference on Foundations of Software Science and Computation Structures. Berlin, Heidelberg: Springer Berlin Heidelberg, 2000.
    <br>[URL](https://link.springer.com/content/pdf/10.1007/3-540-46432-8_18.pdf)
- - Asperti, Andrea, Paolo Coppola, and Simone Martini. "(Optimal) duplication is not elementary recursive." Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 2000. $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea, Paolo Coppola, and Simone Martini. "(Optimal) duplication is not elementary recursive." Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 2000. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/325694.325707)
  - Mackie, Ian. "Interaction nets for linear logic." Theoretical Computer Science 247.1-2 (2000): 83-140.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397500001985)
@@ -105,11 +105,11 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Mackie, Ian, and Jorge Sousa Pinto. "Encoding linear logic with interaction combinators." Information and Computation 176.2 (2002): 153-186.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540102931639)
- - Lippi, Sylvain. "Encoding left reduction in the λ-calculus with interaction nets." Mathematical Structures in Computer Science 12.6 (2002): 797-822.
+ - Lippi, Sylvain. "Encoding left reduction in the λ-calculus with interaction nets." Mathematical Structures in Computer Science 12.6 (2002): 797-822. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://doi.org/10.1017/S0960129502003754)
  - Lippi, Sylvain. "in2: A graphical interpreter for interaction nets." International Conference on Rewriting Techniques and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002.
    <br>[URL](https://link.springer.com/chapter/10.1007/3-540-45610-4_29)
- - Fernández, Maribel, and Ian Mackie. "Call-by-value λ-graph rewriting without rewriting." International Conference on Graph Transformation. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002.
+ - Fernández, Maribel, and Ian Mackie. "Call-by-value λ-graph rewriting without rewriting." International Conference on Graph Transformation. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/3-540-45832-8_8)
  - Fernandez, Maribel, and Lionel Khalil. "Interaction Nets with McCarthy's amb." Electronic Notes in Theoretical Computer Science 68.2 (2002): 51-68.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105803639)
@@ -120,14 +120,14 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397502006370)
  - Pinto, Jorge Sousa. "Weak reduction and garbage collection in interaction nets." Electronic Notes in Theoretical Computer Science 86.4 (2003): 625-640. $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://doi.org/10.1016/S1571-0661(05)82614-3)
- - Thyer, Michael Jonathan. Lazy specialization. University of York, Department of Computer Science, 2003. $${\textbf{\color{purple}optimality}}$$
+ - Thyer, Michael Jonathan. Lazy specialization. University of York, Department of Computer Science, 2003. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](http://www.thyer.name/phd-thesis/thesis-thyer.pdf), [webarchive](https://web.archive.org/web/20240730045022if_/http://www.thyer.name/phd-thesis/thesis-thyer.pdf)
 
 ### 2004
 
- - Mackie, Ian. "Efficient λ-evaluation with interaction nets." International Conference on Rewriting Techniques and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004.
+ - Mackie, Ian. "Efficient λ-evaluation with interaction nets." International Conference on Rewriting Techniques and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2004. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/978-3-540-25979-4_11)
- - van Oostrom, Vincent, Kees-Jan van de Looij, and Marijn Zwitserlood. "Lambdascope: another optimal implementation of the lambda-calculus." Workshop on Algebra and Logic on Programming Systems (ALPS). 2004. $${\textbf{\color{purple}optimality}}$$
+ - van Oostrom, Vincent, Kees-Jan van de Looij, and Marijn Zwitserlood. "Lambdascope: another optimal implementation of the lambda-calculus." Workshop on Algebra and Logic on Programming Systems (ALPS). 2004. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](http://www.javakade.nl/research/pdf/lambdascope.pdf), [webarchive](http://web.archive.org/web/20251016073247/http://www.javakade.nl/research/pdf/lambdascope.pdf)
 
 ### 2005
@@ -136,20 +136,20 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://arxiv.org/pdf/cs/0412028), [webarchive](http://web.archive.org/web/20251016073124/https://arxiv.org/pdf/cs/0412028)
  - Mackie, Ian. "Towards a programming language for interaction nets." Electronic Notes in Theoretical Computer Science 127.5 (2005): 133-151.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050176)
- - Guerrini, Stefano. "Sharing implementations of graph rewriting systems." Electronic Notes in Theoretical Computer Science 127.5 (2005): 113-132. $${\textbf{\color{purple}optimality}}$$
+ - Guerrini, Stefano. "Sharing implementations of graph rewriting systems." Electronic Notes in Theoretical Computer Science 127.5 (2005): 113-132. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
- - Sinot, François-Régis. "Call-by-name and call-by-value as token-passing interaction nets." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005.
+ - Sinot, François-Régis. "Call-by-name and call-by-value as token-passing interaction nets." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/11417170_28)
- - Mackie, Ian. "Encoding strategies in the lambda calculus with interaction nets." Symposium on Implementation and Application of Functional Languages. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005.
+ - Mackie, Ian. "Encoding strategies in the lambda calculus with interaction nets." Symposium on Implementation and Application of Functional Languages. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/11964681_2)
- - Sinot, François-Régis. "Call-by-name and call-by-value as token-passing interaction nets." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005.
+ - Sinot, François-Régis. "Call-by-name and call-by-value as token-passing interaction nets." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/11417170_28)
  - Mackie, Ian, Jorge Sousa Pinto, and Miguel Vilaça. "Functional programming and program transformation with interaction nets." (2005).
    <br>[URL](https://www.researchgate.net/publication/228680206_Functional_programming_and_program_transformation_with_interaction_nets)
 
 ### 2006
 
- - Coppola, Paolo, and Simone Martini. "Optimizing optimal reduction: A type inference algorithm for elementary affine logic." ACM Transactions on Computational Logic (TOCL) 7.2 (2006): 219-260. $${\textbf{\color{purple}optimality}}$$
+ - Coppola, Paolo, and Simone Martini. "Optimizing optimal reduction: A type inference algorithm for elementary affine logic." ACM Transactions on Computational Logic (TOCL) 7.2 (2006): 219-260. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/1131313.1131315)
  - Ehrhard, Thomas, and Laurent Regnier. "Differential interaction nets." Theoretical Computer Science 364.2 (2006): 166-195.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397506005299)
@@ -162,9 +162,9 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Mazza, Damiano. "A denotational semantics for the symmetric interaction combinators." Mathematical Structures in Computer Science 17.3 (2007): 527-562.
    <br>[URL](https://lipn.univ-paris13.fr/~mazza/papers/CombSem-MSCS.pdf), [webarchive](http://web.archive.org/web/20250930033905/https://lipn.univ-paris13.fr/~mazza/papers/CombSem-MSCS.pdf)
- - Lippi, Sylvain. "The graphical Krivine machine." Higher-order and symbolic computation 20.3 (2007): 295-318.
+ - Lippi, Sylvain. "The graphical Krivine machine." Higher-order and symbolic computation 20.3 (2007): 295-318. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/article/10.1007/s10990-007-9011-3)
- - Terui, Kazushige. "Light affine lambda calculus and polynomial time strong normalization." Archive for Mathematical Logic 46.3 (2007): 253-280.
+ - Terui, Kazushige. "Light affine lambda calculus and polynomial time strong normalization." Archive for Mathematical Logic 46.3 (2007): 253-280. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://doi.org/10.1007/s00153-007-0042-6)
  - Cirstea, Horatiu, et al. "From functional programs to interaction nets via the Rewriting Calculus." Electronic Notes in Theoretical Computer Science 174.10 (2007): 39-56.
    <br>[URL](https://doi.org/10.1016/j.entcs.2007.02.046)
@@ -177,7 +177,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.researchgate.net/publication/222019408_Hard_combinators)
  - Almeida, José Bacelar, Jorge Sousa Pinto, and Miguel Vilaça. "Token-passing nets for functional languages." Electronic Notes in Theoretical Computer Science 204 (2008): 181-198.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066108001667)
- - Mackie, Ian. "An interaction net implementation of closed reduction." Symposium on Implementation and Application of Functional Languages. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008.
+ - Mackie, Ian. "An interaction net implementation of closed reduction." Symposium on Implementation and Application of Functional Languages. Berlin, Heidelberg: Springer Berlin Heidelberg, 2008. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/978-3-642-24452-0_3)
 
 ### 2009
@@ -199,12 +199,12 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://arxiv.org/pdf/1003.4562), [webarchive](http://web.archive.org/web/20250913110939/https://arxiv.org/pdf/1003.4562)
  - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "A lightweight abstract machine for interaction nets." Electronic Communications of the EASST 29 (2010).
    <br>[URL](https://doi.org/10.14279/tuj.eceasst.29.416)
- - Fernández, Maribel, and Nikolaos Siafakas. "Labelled lambda-calculi with explicit copy and erase." arXiv preprint arXiv:1003.5515 (2010).
+ - Fernández, Maribel, and Nikolaos Siafakas. "Labelled lambda-calculi with explicit copy and erase." arXiv preprint arXiv:1003.5515 (2010). $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/1003.5515), [webarchive](http://web.archive.org/web/20251016072419/https://arxiv.org/pdf/1003.5515)
 
 ### 2012
 
- - Guerrini, Stefano, Thomas Leventis, and Marco Solieri. "Deep into optimality–complexity and correctness of sharing implementation of bounded logics." Third International Workshop on Developments in Implicit Complexity. 2012. $${\textbf{\color{purple}optimality}}$$
+ - Guerrini, Stefano, Thomas Leventis, and Marco Solieri. "Deep into optimality–complexity and correctness of sharing implementation of bounded logics." Third International Workshop on Developments in Implicit Complexity. 2012. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://ms.xt3.it/research/DeepIntoOptimality_2012-02-17.pdf), [webarchive](http://web.archive.org/web/20251016072157/https://ms.xt3.it/research/DeepIntoOptimality_2012-02-17.pdf)
  - Jiresch, Eugen Robert Winfried. Extending interaction nets towards the real world. Diss. Technische Universität Wien, 2012.
    <br>[URL](https://repositum.tuwien.at/bitstream/20.500.12708/12949/2/Jiresch%20Eugen%20Robert%20Winfried%20-%202012%20-%20Extending%20interaction%20nets%20towards%20the...pdf), [webarchive](http://web.archive.org/web/20251016072103/https://repositum.tuwien.at/bitstream/20.500.12708/12949/2/Jiresch%20Eugen%20Robert%20Winfried%20-%202012%20-%20Extending%20interaction%20nets%20towards%20the...pdf)
@@ -215,12 +215,12 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/soi.pdf), [webarchive](http://web.archive.org/web/20241204085641/http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/soi.pdf)
  - Fernández, Maribel, Ian Mackie, and Matthew Walker. "Bigraphical nets." arXiv preprint arXiv:1302.6339 (2013).
    <br>[URL](https://arxiv.org/pdf/1302.6339), [webarchive](http://web.archive.org/web/20251016071851/https://arxiv.org/pdf/1302.6339)
- - Balabonski, Thibaut. "Weak optimality, and the meaning of sharing." ACM SIGPLAN Notices 48.9 (2013): 263-274. $${\textbf{\color{purple}optimality}}$$
+ - Balabonski, Thibaut. "Weak optimality, and the meaning of sharing." ACM SIGPLAN Notices 48.9 (2013): 263-274. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://doi.org/10.1145/2544174.2500606)
 
 ### 2014
 
- - Pedicini, Marco, Giulio Pellitta, and Mario Piazza. "Sequential and parallel abstract machines for optimal reduction." Preproceedings of the 15th Symposium on Trends in Functional Programming (TFP2014). 2014. $${\textbf{\color{purple}optimality}}$$
+ - Pedicini, Marco, Giulio Pellitta, and Mario Piazza. "Sequential and parallel abstract machines for optimal reduction." Preproceedings of the 15th Symposium on Trends in Functional Programming (TFP2014). 2014. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf), [webarchive](http://web.archive.org/web/20251016071634/https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
 
 ### 2015
@@ -242,45 +242,45 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://dl.acm.org/doi/10.1145/2837614.2837646)
  - Gimenez, Stéphane, and David Obwaller. "Interaction Automata and the ia2d Interpreter." 1st International Conference on Formal Structures for Computation and Deduction (FSCD 2016). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2016.
    <br>[URL](http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/ia2d.pdf), [webarchive](http://web.archive.org/save/http://cl-informatik.uibk.ac.at/users/sgimenez/data/articles/ia2d.pdf)
- - Salikhmetov, Anton. "Token-passing Optimal Reduction with Embedded Read-back." arXiv preprint arXiv:1609.03644 (2016). $${\textbf{\color{purple}optimality}}$$
+ - Salikhmetov, Anton. "Token-passing Optimal Reduction with Embedded Read-back." arXiv preprint arXiv:1609.03644 (2016). $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/1609.03644), [webarchive](http://web.archive.org/web/20251016070555/https://arxiv.org/pdf/1609.03644)
 
 ### 2017
 
- - Asperti, Andrea. "About the efficient reduction of lambda terms." arXiv preprint arXiv:1701.04240 (2017). $${\textbf{\color{purple}optimality}}$$
+ - Asperti, Andrea. "About the efficient reduction of lambda terms." arXiv preprint arXiv:1701.04240 (2017). $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/1701.04240), [webarchive](http://web.archive.org/web/20251016070315/https://arxiv.org/pdf/1701.04240)
- - Barenbaum, Pablo, and Eduardo Bonelli. "Optimality and the linear substitution calculus." 2nd International Conference on Formal Structures for Computation and Deduction (FSCD 2017). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2017. $${\textbf{\color{purple}optimality}}$$
+ - Barenbaum, Pablo, and Eduardo Bonelli. "Optimality and the linear substitution calculus." 2nd International Conference on Formal Structures for Computation and Deduction (FSCD 2017). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2017. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://drops.dagstuhl.de/storage/00lipics/lipics-vol084-fscd2017/LIPIcs.FSCD.2017.9/LIPIcs.FSCD.2017.9.pdf), [webarchive](http://web.archive.org/web/20250723194427/https://drops.dagstuhl.de/storage/00lipics/lipics-vol084-fscd2017/LIPIcs.FSCD.2017.9/LIPIcs.FSCD.2017.9.pdf)
  - Dal Lago, Ugo, Ryo Tanaka, and Akira Yoshimizu. "The geometry of concurrent interaction: Handling multiple ports by way of multiple tokens." 2017 32nd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS). IEEE, 2017.
    <br>[URL](http://ieeexplore.ieee.org/document/8005112/)
- - Muroya, Koko, and Dan R. Ghica. "The dynamic Geometry of Interaction machine: a call-by-need graph rewriter." arXiv preprint arXiv:1703.10027 (2017).
+ - Muroya, Koko, and Dan R. Ghica. "The dynamic Geometry of Interaction machine: a call-by-need graph rewriter." arXiv preprint arXiv:1703.10027 (2017). $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/1803.00427), [webarchive](http://web.archive.org/web/20251016070027/https://arxiv.org/pdf/1803.00427)
 
 ### 2018
 
- - Muroya, Koko, and Dan R. Ghica. "Efficient implementation of evaluation strategies via token-guided graph rewriting." arXiv preprint arXiv:1802.06495 (2018).
+ - Muroya, Koko, and Dan R. Ghica. "Efficient implementation of evaluation strategies via token-guided graph rewriting." arXiv preprint arXiv:1802.06495 (2018). $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/1802.06495), [webarchive](http://web.archive.org/web/20250810125528/https://arxiv.org/pdf/1802.06495)
 
 ### 2019
 
  - Aschieri, Federico, and Francesco A. Genco. "Par means parallel: multiplicative linear logic proofs as concurrent functional programs." Proceedings of the ACM on Programming Languages 4.POPL (2019): 1-28.
    <br>[URL](https://dl.acm.org/doi/10.1145/3371086)
- - Lai, Anna Chiara, Marco Pedicini, and Mario Piazza. "Abstract machines, optimal reduction, and streams." Mathematical Structures in Computer Science 29.9 (2019): 1379-1410. $${\textbf{\color{purple}optimality}}$$
+ - Lai, Anna Chiara, Marco Pedicini, and Mario Piazza. "Abstract machines, optimal reduction, and streams." Mathematical Structures in Computer Science 29.9 (2019): 1379-1410. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf), [webarchive](http://web.archive.org/web/20251016065751/https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
 
 ### 2020
 
- - Accattoli, Beniamino, Ugo Dal Lago, and Gabriele Vanoni. "The machinery of interaction." Proceedings of the 22nd International Symposium on Principles and Practice of Declarative Programming. 2020.
+ - Accattoli, Beniamino, Ugo Dal Lago, and Gabriele Vanoni. "The machinery of interaction." Proceedings of the 22nd International Symposium on Principles and Practice of Declarative Programming. 2020. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/2002.05649), [webarchive](http://web.archive.org/web/20251016065632/https://arxiv.org/pdf/2002.05649)
 
 ### 2022
 
- - Dal Lago, Ugo. "Implicit computation complexity in higher-order programming languages: A Survey in Memory of Martin Hofmann." Mathematical Structures in Computer Science 32.6 (2022): 760-776.
+ - Dal Lago, Ugo. "Implicit computation complexity in higher-order programming languages: A Survey in Memory of Martin Hofmann." Mathematical Structures in Computer Science 32.6 (2022): 760-776. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://www.researchgate.net/publication/359247675_Implicit_computation_complexity_in_higher-order_programming_languages_A_Survey_in_Memory_of_Martin_Hofmann)
 
 ### 2025
 
  - Huber, Nikolaus, and Wang Yi. "An Encoding of Interaction Nets in OCaml." arXiv preprint arXiv:2503.20463 (2025).
    <br>[URL](https://arxiv.org/pdf/2503.20463), [webarchive](http://web.archive.org/web/20251016070906/https://arxiv.org/pdf/2503.20463)
- - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{purple}optimality}}$$
+ - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
