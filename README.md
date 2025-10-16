@@ -24,7 +24,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ## Books
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
 
 ## Papers
