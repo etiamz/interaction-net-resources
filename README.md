@@ -81,6 +81,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/268946.268971)
  - Fernández, Maribel, and Ian Mackie. "Interaction nets and term-rewriting systems." Theoretical Computer Science 190.1 (1998): 3-39.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397597000820)
+ - Ferndandez, M., and Ian Mackie. "Coinductive techniques for operational equivalence of interaction nets." Proceedings. Thirteenth Annual IEEE Symposium on Logic in Computer Science (Cat. No. 98CB36226). IEEE, 1998.
+   <br>[URL](https://www.semanticscholar.org/paper/Coinductive-techniques-for-operational-equivalence-Fern%C3%A1ndez-Mackie/6188a20711cdb8cef370fc60a6a9dfd82f8f6c8f)
 
 ### 1999
 
