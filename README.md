@@ -24,14 +24,14 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1989
 
- - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989.
+ - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96718)
  - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96711)
 
 ### 1990
 
- - Gay, Simon J. "Interaction nets." Diploma in Computer Science in Queens (1991).
+ - Gay, Simon J. "Interaction nets." Diploma in Computer Science in Queens (1991). $${\textbf{\color{lightgreen}introductory}}$$
    <br>[URL](https://www.dcs.gla.ac.uk/~simon/publications/diploma.pdf), [webarchive](http://web.archive.org/web/20250123150222/https://www.dcs.gla.ac.uk/~simon/publications/diploma.pdf)
 
 ### 1992
@@ -62,7 +62,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1997
 
- - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101.
+ - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101. $${\textbf{\color{lightgreen}introductory}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540197926432)
  - Asperti, Andrea, and Juliusz Chroboczek. "Safe Operators: Brackets Closed Forever Optimizing Optimal λ-Calculus Implementations: Optimizing Optimal λ-Calculus Implementations." Applicable Algebra in Engineering, Communication and Computing 8.6 (1997): 437-468. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://link.springer.com/content/pdf/10.1007/s002000050083.pdf)
@@ -71,7 +71,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1998
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
  - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
@@ -136,7 +136,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://arxiv.org/pdf/cs/0412028), [webarchive](http://web.archive.org/web/20251016073124/https://arxiv.org/pdf/cs/0412028)
  - Mackie, Ian. "Towards a programming language for interaction nets." Electronic Notes in Theoretical Computer Science 127.5 (2005): 133-151.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050176)
- - Guerrini, Stefano. "Sharing implementations of graph rewriting systems." Electronic Notes in Theoretical Computer Science 127.5 (2005): 113-132. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Guerrini, Stefano. "Sharing implementations of graph rewriting systems." Electronic Notes in Theoretical Computer Science 127.5 (2005): 113-132. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
  - Sinot, François-Régis. "Call-by-name and call-by-value as token-passing interaction nets." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/11417170_28)
@@ -282,5 +282,5 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Huber, Nikolaus, and Wang Yi. "An Encoding of Interaction Nets in OCaml." arXiv preprint arXiv:2503.20463 (2025).
    <br>[URL](https://arxiv.org/pdf/2503.20463), [webarchive](http://web.archive.org/web/20251016070906/https://arxiv.org/pdf/2503.20463)
- - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Borner, Marvin. "Optimal Interaction With the Real World." 2025. Eberhard Karls Universität Tübingen, Bachelor's thesis. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://raw.githubusercontent.com/marvinborner/optimal-effects/refs/heads/bachelor/thesis.pdf)
