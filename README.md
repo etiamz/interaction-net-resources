@@ -91,7 +91,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://link.springer.com/content/pdf/10.1007/3-540-46432-8_18.pdf)
  - Asperti, Andrea, Paolo Coppola, and Simone Martini. "(Optimal) duplication is not elementary recursive." Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 2000. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/325694.325707)
- - Pedicini, Marco, and Francesco Quaglia. "A parallel implementation for optimal lambda-calculus reduction." Proceedings of the 2nd ACM SIGPLAN international conference on Principles and practice of declarative programming. 2000. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
+ - Pedicini, Marco, and Francesco Quaglia. "A parallel implementation for optimal lambda-calculus reduction." Proceedings of the 2nd ACM SIGPLAN international conference on Principles and practice of declarative programming. 2000. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/351268.351270)
  - Mackie, Ian. "Interaction nets for linear logic." Theoretical Computer Science 247.1-2 (2000): 83-140.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397500001985)
@@ -222,12 +222,12 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2014
 
- - Pedicini, Marco, Giulio Pellitta, and Mario Piazza. "Sequential and parallel abstract machines for optimal reduction." Preproceedings of the 15th Symposium on Trends in Functional Programming (TFP2014). 2014. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Pedicini, Marco, Giulio Pellitta, and Mario Piazza. "Sequential and parallel abstract machines for optimal reduction." Preproceedings of the 15th Symposium on Trends in Functional Programming (TFP2014). 2014. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf), [webarchive](http://web.archive.org/web/20251016071634/https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
 
 ### 2015
 
- - Kahl, Wolfram. "A simple parallel implementation of interaction nets in Haskell." arXiv preprint arXiv:1504.02603 (2015). $${\textbf{\color{cyan}implementation}}$$
+ - Kahl, Wolfram. "A simple parallel implementation of interaction nets in Haskell." arXiv preprint arXiv:1504.02603 (2015). $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](http://arxiv.org/pdf/1504.02603), [webarchive](http://web.archive.org/web/20251008173559/https://arxiv.org/pdf/1504.02603)
  - Sato, Shinya. Design and implementation of a low-level language for interaction nets. Diss. University of Sussex, 2015. $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
@@ -238,7 +238,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Mackie, Ian, and Shinya Sato. "In-place Graph Rewriting with Interaction Nets." arXiv preprint arXiv:1609.03641 (2016). $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://arxiv.org/pdf/1609.03641), [webarchive](http://web.archive.org/web/20241210105346/https://arxiv.org/pdf/1609.03641)
- - Mackie, Ian, and Shinya Sato. "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." Electronic Communications of the EASST 73 (2016). $${\textbf{\color{red}efficiency}}$$
+ - Mackie, Ian, and Shinya Sato. "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." Electronic Communications of the EASST 73 (2016). $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://eceasst.org/index.php/eceasst/article/download/2205/2376/2387)
  - Gimenez, Stéphane, and Georg Moser. "The complexity of interaction." Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. 2016. $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://dl.acm.org/doi/10.1145/2837614.2837646)
@@ -265,7 +265,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2019
 
- - Aschieri, Federico, and Francesco A. Genco. "Par means parallel: multiplicative linear logic proofs as concurrent functional programs." Proceedings of the ACM on Programming Languages 4.POPL (2019): 1-28.
+ - Aschieri, Federico, and Francesco A. Genco. "Par means parallel: multiplicative linear logic proofs as concurrent functional programs." Proceedings of the ACM on Programming Languages 4.POPL (2019): 1-28. $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://dl.acm.org/doi/10.1145/3371086)
  - Lai, Anna Chiara, Marco Pedicini, and Mario Piazza. "Abstract machines, optimal reduction, and streams." Mathematical Structures in Computer Science 29.9 (2019): 1379-1410. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf), [webarchive](http://web.archive.org/web/20251016065751/https://iris.uniroma1.it/bitstream/11573/1408275/6/Lai_preprint_abstract_2019.pdf)
