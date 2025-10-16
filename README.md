@@ -246,6 +246,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://arxiv.org/pdf/1609.03641), [webarchive](http://web.archive.org/web/20241210105346/https://arxiv.org/pdf/1609.03641)
  - Mackie, Ian, and Shinya Sato. "Parallel Evaluation of Interaction Nets: Case Studies and Experiments." Electronic Communications of the EASST 73 (2016). $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://eceasst.org/index.php/eceasst/article/download/2205/2376/2387)
+ - Mackie, Ian. "Compiling process networks to interaction nets." arXiv preprint arXiv:1609.03640 (2016).
+   <br>[URL](https://arxiv.org/pdf/1609.03640), [webarchive](http://web.archive.org/web/20251016105400/https://arxiv.org/pdf/1609.03640)
  - Gimenez, Stéphane, and Georg Moser. "The complexity of interaction." Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. 2016. $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://dl.acm.org/doi/10.1145/2837614.2837646)
  - Gimenez, Stéphane, and David Obwaller. "Interaction Automata and the ia2d Interpreter." 1st International Conference on Formal Structures for Computation and Deduction (FSCD 2016). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2016. $${\textbf{\color{cyan}implementation}}$$
