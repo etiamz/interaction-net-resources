@@ -91,6 +91,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://link.springer.com/content/pdf/10.1007/3-540-46432-8_18.pdf)
  - Asperti, Andrea, Paolo Coppola, and Simone Martini. "(Optimal) duplication is not elementary recursive." Proceedings of the 27th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 2000. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/325694.325707)
+ - Pedicini, Marco, and Francesco Quaglia. "A parallel implementation for optimal lambda-calculus reduction." Proceedings of the 2nd ACM SIGPLAN international conference on Principles and practice of declarative programming. 2000. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
+   <br>[URL](https://dl.acm.org/doi/pdf/10.1145/351268.351270)
  - Mackie, Ian. "Interaction nets for linear logic." Theoretical Computer Science 247.1-2 (2000): 83-140.
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397500001985)
  - Alexiev, Vladimir. Non-deterministic interaction nets. University of Alberta, 2000.
