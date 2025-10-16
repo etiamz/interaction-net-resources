@@ -276,6 +276,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Accattoli, Beniamino, Ugo Dal Lago, and Gabriele Vanoni. "The machinery of interaction." Proceedings of the 22nd International Symposium on Principles and Practice of Declarative Programming. 2020. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://arxiv.org/pdf/2002.05649), [webarchive](http://web.archive.org/web/20251016065632/https://arxiv.org/pdf/2002.05649)
+ - Muroya, Koko. Hypernet semantics of programming languages. Diss. University of Birmingham, 2020. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
+   <br>[URL](https://group-mmm.org/~koko/papers/phdthesis.pdf), [webarchive](http://web.archive.org/web/20250226193134/https://group-mmm.org/~koko/papers/phdthesis.pdf)
 
 ### 2022
 
