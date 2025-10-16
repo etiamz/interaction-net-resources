@@ -86,6 +86,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0304397597000820)
  - Ferndandez, M., and Ian Mackie. "Coinductive techniques for operational equivalence of interaction nets." Proceedings. Thirteenth Annual IEEE Symposium on Logic in Computer Science (Cat. No. 98CB36226). IEEE, 1998.
    <br>[URL](https://www.semanticscholar.org/paper/Coinductive-techniques-for-operational-equivalence-Fern%C3%A1ndez-Mackie/6188a20711cdb8cef370fc60a6a9dfd82f8f6c8f)
+ - Fernández, Maribel. "Type assignment and termination of interaction nets." Mathematical Structures in Computer Science 8.6 (1998): 593-636.
+   <br>[URL](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/abs/type-assignment-and-termination-of-interaction-nets/60CE451F3E7C6FB033DB2266A786D8D5)
 
 ### 1999
 
