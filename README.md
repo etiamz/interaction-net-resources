@@ -22,6 +22,11 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
  - [Linr](http://cl-informatik.uibk.ac.at/users/sgimenez/lin/) -- A lightweight parallel computation server for interaction nets.
  - [GoI-Visualizer](https://koko-m.github.io/GoI-Visualiser/) -- A simulation tool of the dynamic GoI abstract machine.
 
+## Books
+
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$
+   <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
+
 ## Papers
 
 ### 1989
@@ -73,8 +78,6 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1998
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
-   <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
  - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
  - Asperti, Andrea, and Harry G. Mairson. "Parallel beta reduction is not elementary recursive." Proceedings of the 25th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{crimson}complexity}}$$
