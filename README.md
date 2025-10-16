@@ -174,6 +174,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://doi.org/10.1007/s00153-007-0042-6)
  - Cirstea, Horatiu, et al. "From functional programs to interaction nets via the Rewriting Calculus." Electronic Notes in Theoretical Computer Science 174.10 (2007): 39-56.
    <br>[URL](https://doi.org/10.1016/j.entcs.2007.02.046)
+ - Zwitserlood, Marijn. End-of-Scope, Locally. 2007. Universiteit Utrecht, Master's thesis. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+   <br>[URL](http://www.javakade.nl/research/supervised/marijnzwitserlood.pdf), [webarchive](http://web.archive.org/web/20251016104532/http://www.javakade.nl/research/supervised/marijnzwitserlood.pdf)
 
 ### 2008
 
