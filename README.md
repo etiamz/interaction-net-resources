@@ -236,6 +236,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Pedicini, Marco, Giulio Pellitta, and Mario Piazza. "Sequential and parallel abstract machines for optimal reduction." Preproceedings of the 15th Symposium on Trends in Functional Programming (TFP2014). 2014. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf), [webarchive](http://web.archive.org/web/20251016071634/https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
+ - Perrinel, Matthieu. "On context semantics and interaction nets." Proceedings of the Joint Meeting of the Twenty-Third EACSL Annual Conference on Computer Science Logic (CSL) and the Twenty-Ninth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS). 2014.
+   <br>[URL](https://dl.acm.org/doi/pdf/10.1145/2603088.2603155)
 
 ### 2015
 
