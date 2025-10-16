@@ -106,6 +106,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Fernández, Maribel, Ian Mackie, and Jorge Sousa Pinto. "Combining interaction nets with externally defined programs." (2001). $${\textbf{\color{thistle}input-output}}$$
    <br>[URL](https://core.ac.uk/download/pdf/55602454.pdf), [webarchive](http://web.archive.org/web/20251016073740/https://core.ac.uk/download/pdf/55602454.pdf)
+ - Lippi, Sylvain. Théorie et pratique des réseaux d'interaction. Diss. Aix-Marseille 2, 2001. $${\textbf{\color{orchid}λ-calculus}}$$
 
 ### 2002
 
