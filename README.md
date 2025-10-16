@@ -24,7 +24,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1989
 
- - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$
+ - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96718)
  - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96711)
@@ -71,7 +71,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1998
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
  - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
@@ -109,7 +109,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540102931639)
  - Lippi, Sylvain. "Encoding left reduction in the λ-calculus with interaction nets." Mathematical Structures in Computer Science 12.6 (2002): 797-822. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://doi.org/10.1017/S0960129502003754)
- - Lippi, Sylvain. "in2: A graphical interpreter for interaction nets." International Conference on Rewriting Techniques and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002. $${\textbf{\color{cyan}implementation}}$$
+ - Lippi, Sylvain. "in2: A graphical interpreter for interaction nets." International Conference on Rewriting Techniques and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002. $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/3-540-45610-4_29)
  - Fernández, Maribel, and Ian Mackie. "Call-by-value λ-graph rewriting without rewriting." International Conference on Graph Transformation. Berlin, Heidelberg: Springer Berlin Heidelberg, 2002. $${\textbf{\color{orchid}λ-calculus}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/3-540-45832-8_8)
@@ -136,7 +136,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Baillot, Patrick, and Kazushige Terui. "A feasible algorithm for typing in elementary affine logic." International Conference on Typed Lambda Calculi and Applications. Berlin, Heidelberg: Springer Berlin Heidelberg, 2005. $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://arxiv.org/pdf/cs/0412028), [webarchive](http://web.archive.org/web/20251016073124/https://arxiv.org/pdf/cs/0412028)
- - Mackie, Ian. "Towards a programming language for interaction nets." Electronic Notes in Theoretical Computer Science 127.5 (2005): 133-151.
+ - Mackie, Ian. "Towards a programming language for interaction nets." Electronic Notes in Theoretical Computer Science 127.5 (2005): 133-151. $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050176)
  - Guerrini, Stefano. "Sharing implementations of graph rewriting systems." Electronic Notes in Theoretical Computer Science 127.5 (2005): 113-132. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050164)
@@ -173,7 +173,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2008
 
- - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "Interaction nets: programming language design and implementation." Electronic Communications of the EASST 10 (2008). $${\textbf{\color{cyan}implementation}}$$
+ - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "Interaction nets: programming language design and implementation." Electronic Communications of the EASST 10 (2008). $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.user.tu-berlin.de/o.runge/tfs/workshops/gtvmt08/Program/paper_38.pdf), [webarchive](http://web.archive.org/web/20241210103945/https://www.user.tu-berlin.de/o.runge/tfs/workshops/gtvmt08/Program/paper_38.pdf)
  - Béchet, Denis, and Sylvain Lippi. "Hard combinators." Electronic Notes in Theoretical Computer Science 203.1 (2008): 31-48.
    <br>[URL](https://www.researchgate.net/publication/222019408_Hard_combinators)
@@ -188,16 +188,16 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066109004381)
  - Lippi, Sylvain. "Universal Hard Interaction for Clockless Computation: Dem Glücklichen schlägt keine Stunde!." Fundamenta Informaticae 91.2 (2009): 357-394.
    <br>[URL](https://dl.acm.org/doi/abs/10.5555/1549637.1549661)
- - Mackie, Ian, Jorge Sousa Pinto, and Miguel Vilaça. "Iterators, Recursors and Interaction Nets." arXiv preprint arXiv:0910.3321 (2009).
+ - Mackie, Ian, Jorge Sousa Pinto, and Miguel Vilaça. "Iterators, Recursors and Interaction Nets." arXiv preprint arXiv:0910.3321 (2009). $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.researchgate.net/publication/45878966_Iterators_Recursors_and_Interaction_Nets)
- - Fernández, Maribel, et al. "Recursive functions with pattern matching in interaction nets." Electronic Notes in Theoretical Computer Science 253.4 (2009): 55-71.
+ - Fernández, Maribel, et al. "Recursive functions with pattern matching in interaction nets." Electronic Notes in Theoretical Computer Science 253.4 (2009): 55-71. $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S157106610900437X)
  - Gimenez, Stéphane. Programmer, calculer et raisonner avec les réseaux de la logique linéaire. Diss. Université Paris-Diderot-Paris VII, 2009.
    <br>[URL](http://cl-informatik.uibk.ac.at/users/sgimenez/thesis-sgimenez.pdf), [webarchive](http://web.archive.org/web/20251016072522/http://cl-informatik.uibk.ac.at/users/sgimenez/thesis-sgimenez.pdf)
 
 ### 2010
 
- - Hassan, Abubakar, Eugen Jiresch, and Shinya Sato. "An implementation of nested pattern matching in interaction nets." arXiv preprint arXiv:1003.4562 (2010).
+ - Hassan, Abubakar, Eugen Jiresch, and Shinya Sato. "An implementation of nested pattern matching in interaction nets." arXiv preprint arXiv:1003.4562 (2010). $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://arxiv.org/pdf/1003.4562), [webarchive](http://web.archive.org/web/20250913110939/https://arxiv.org/pdf/1003.4562)
  - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "A lightweight abstract machine for interaction nets." Electronic Communications of the EASST 29 (2010). $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://doi.org/10.14279/tuj.eceasst.29.416)
@@ -229,7 +229,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Kahl, Wolfram. "A simple parallel implementation of interaction nets in Haskell." arXiv preprint arXiv:1504.02603 (2015). $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{aquamarine}parallelism}}$$
    <br>[URL](http://arxiv.org/pdf/1504.02603), [webarchive](http://web.archive.org/web/20251008173559/https://arxiv.org/pdf/1504.02603)
- - Sato, Shinya. Design and implementation of a low-level language for interaction nets. Diss. University of Sussex, 2015. $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
+ - Sato, Shinya. Design and implementation of a low-level language for interaction nets. Diss. University of Sussex, 2015. $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
  - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "An implementation model for interaction nets." arXiv preprint arXiv:1505.07164 (2015). $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://arxiv.org/pdf/1505.07164), [webarchive](http://web.archive.org/web/20250916003558/https://arxiv.org/pdf/1505.07164)
