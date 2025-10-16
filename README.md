@@ -24,9 +24,9 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1989
 
- - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$
+ - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96718)
- - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96711)
 
 ### 1990
@@ -36,7 +36,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1992
 
- - Gonthier, Georges, Martín Abadi, and Jean-Jacques Lévy. "The geometry of optimal lambda reduction." Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1992. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
+ - Gonthier, Georges, Martín Abadi, and Jean-Jacques Lévy. "The geometry of optimal lambda reduction." Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1992. $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/143165.143172)
 
 ### 1994
@@ -53,7 +53,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Asperti, Andrea, and Cosimo Laneve. "Interaction Systems II: the practice of optimal reductions." Theoretical Computer Science 159.2 (1996): 191-244. $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/0304397595000623/pdf?md5=842ebd201d36c01e835ecb2c52014052&pid=1-s2.0-0304397595000623-main.pdf)
- - Lawall, Julia L., and Harry G. Mairson. "Optimality and inefficiency: what isn't a cost model of the lambda calculus?." ACM Sigplan Notices 31.6 (1996): 92-101. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$
+ - Lawall, Julia L., and Harry G. Mairson. "Optimality and inefficiency: what isn't a cost model of the lambda calculus?." ACM Sigplan Notices 31.6 (1996): 92-101. $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/232629.232639)
  - Asperti, Andrea, Cecilia Giovannetti, and Andrea Naletto. "The Bologna optimal higher-order machine." Journal of Functional Programming 6.6 (1996): 763-810. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://scispace.com/pdf/the-bologna-optimal-higher-order-machine-2ty9tlqc1w.pdf), [webarchive](http://web.archive.org/web/20251016074139/https://scispace.com/pdf/the-bologna-optimal-higher-order-machine-2ty9tlqc1w.pdf)
@@ -62,7 +62,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1997
 
- - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$
+ - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540197926432)
  - Asperti, Andrea, and Juliusz Chroboczek. "Safe Operators: Brackets Closed Forever Optimizing Optimal λ-Calculus Implementations: Optimizing Optimal λ-Calculus Implementations." Applicable Algebra in Engineering, Communication and Computing 8.6 (1997): 437-468. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://link.springer.com/content/pdf/10.1007/s002000050083.pdf)
@@ -71,7 +71,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1998
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{gold}popular}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
  - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
