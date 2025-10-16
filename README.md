@@ -22,14 +22,6 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
  - [Linr](http://cl-informatik.uibk.ac.at/users/sgimenez/lin/) -- A lightweight parallel computation server for interaction nets.
  - [GoI-Visualizer](https://koko-m.github.io/GoI-Visualiser/) -- A simulation tool of the dynamic GoI abstract machine.
 
-## Videos
-
- - [The Complexity of Interaction](https://www.youtube.com/watch?v=m0VkRonNk6g&t=230s)
- - [Live Science | Introduction to Interaction Nets](https://www.youtube.com/watch?v=zCcAg-vcpys)
- - [\[FProPer24\] HVM2: Iteraction Combinator Evaluator](https://www.youtube.com/watch?v=15ZwW6Sr_iM)
- - [Interaction Combinators: The Hidden Patterns of Computation?](https://www.youtube.com/watch?v=F880mnxu9c0)
- - [Inet -- Interaction Networks Dialect](https://www.youtube.com/watch?v=XKY4LLBwmmg)
-
 ## Papers
 
 ### 1989
