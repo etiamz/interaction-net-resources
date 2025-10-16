@@ -153,6 +153,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2006
 
+ - Sinot, François-Régis. Stratégies Efficaces et Modèles d'Implantation pour les Langages Fonctionnels. Diss. Ecole Polytechnique X, 2006. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
+   <br>[URL](https://pastel.hal.science/pastel-00001952/document), [webarchive](http://web.archive.org/web/20251016103559/https://pastel.hal.science/pastel-00001952/document)
  - Coppola, Paolo, and Simone Martini. "Optimizing optimal reduction: A type inference algorithm for elementary affine logic." ACM Transactions on Computational Logic (TOCL) 7.2 (2006): 219-260. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/1131313.1131315)
  - Ehrhard, Thomas, and Laurent Regnier. "Differential interaction nets." Theoretical Computer Science 364.2 (2006): 166-195.
