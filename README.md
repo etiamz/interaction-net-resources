@@ -24,7 +24,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1989
 
- - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$
+ - Lafont, Yves. "Interaction nets." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96718)
  - Lamping, John. "An algorithm for optimal lambda calculus reduction." Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages. 1989. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/96709.96711)
@@ -62,7 +62,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1997
 
- - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101. $${\textbf{\color{lightgreen}introductory}}$$
+ - Lafont, Yves. "Interaction combinators." information and computation 137.1 (1997): 69-101. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$
    <br>[URL](https://www.sciencedirect.com/science/article/pii/S0890540197926432)
  - Asperti, Andrea, and Juliusz Chroboczek. "Safe Operators: Brackets Closed Forever Optimizing Optimal λ-Calculus Implementations: Optimizing Optimal λ-Calculus Implementations." Applicable Algebra in Engineering, Communication and Computing 8.6 (1997): 437-468. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://link.springer.com/content/pdf/10.1007/s002000050083.pdf)
@@ -71,7 +71,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1998
 
- - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$
+ - Asperti, Andrea, and Stefano Guerrini. The optimal implementation of functional programming languages. Vol. 45. Cambridge University Press, 1998. $${\textbf{\color{lightgreen}introductory}}$$ $${\textbf{\color{orange}must read}}$$ $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{purple}optimality}}$$ $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{crimson}complexity}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://www.amazon.com/exec/obidos/ASIN/0521621127/acmorg-20)
  - Mackie, Ian. "YALE: Yet another lambda evaluator based on interaction nets." Proceedings of the third ACM SIGPLAN international conference on Functional programming. 1998. $${\textbf{\color{orchid}λ-calculus}}$$ $${\textbf{\color{red}efficiency}}$$
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/289423.289434)
@@ -82,7 +82,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 1999
 
- - Fernández, Maribel, and Ian Mackie. "A calculus for interaction nets." International Conference on Principles and Practice of Declarative Programming. Berlin, Heidelberg: Springer Berlin Heidelberg, 1999.
+ - Fernández, Maribel, and Ian Mackie. "A calculus for interaction nets." International Conference on Principles and Practice of Declarative Programming. Berlin, Heidelberg: Springer Berlin Heidelberg, 1999. $${\textbf{\color{orange}must read}}$$
    <br>[URL](https://link.springer.com/chapter/10.1007/10704567_10)
 
 ### 2000
@@ -225,7 +225,7 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
 ### 2015
 
- - Kahl, Wolfram. "A simple parallel implementation of interaction nets in haskell." arXiv preprint arXiv:1504.02603 (2015). $${\textbf{\color{cyan}implementation}}$$
+ - Kahl, Wolfram. "A simple parallel implementation of interaction nets in Haskell." arXiv preprint arXiv:1504.02603 (2015). $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](http://arxiv.org/pdf/1504.02603), [webarchive](http://web.archive.org/web/20251008173559/https://arxiv.org/pdf/1504.02603)
  - Sato, Shinya. Design and implementation of a low-level language for interaction nets. Diss. University of Sussex, 2015. $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
    <br>[URL](https://sussex.figshare.com/articles/thesis/Design_and_implementation_of_a_low-level_language_for_interaction_nets/23417312/1)
