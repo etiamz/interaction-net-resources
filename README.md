@@ -14,11 +14,13 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
  - [PECLR](https://github.com/pis147879/PELCR) -- A parallel environment for optimal lambda calculus reduction.
  - [Optiscope](https://github.com/etiamz/optiscope) -- A Lévy-optimal lambda calculus reducer with a backdoor to C.
  - [Inpla](https://github.com/inpla/inpla) -- A multi-threaded parallel interpreter of interaction nets.
- - [ingpu](https://github.com/euschn/ingpu) -- A GPU-based evaluator for interaction nets.
- - [Linr](http://cl-informatik.uibk.ac.at/users/sgimenez/lin/) -- A lightweight parallel computation server for interaction nets.
- - [Vine](https://github.com/VineLang/vine) -- An experimental new programming language based on interaction nets.
+ - [ingpu](https://github.com/euschn/ingpu) -- An experimental GPU-based evaluator for interaction nets.
  - [HVM](https://github.com/HigherOrderCO/HVM) -- A massively parallel functional runtime written in Rust.
- - [Bend](https://github.com/HigherOrderCO/Bend) -- A massively parallel, high-level programming language.
+ - [Bend](https://github.com/HigherOrderCO/Bend) -- A massively parallel, high-level programming language based on HVM.
+ - [Vine](https://github.com/VineLang/vine) -- An experimental programming language based on interaction nets.
+ - [inet-forth](https://github.com/xieyuheng/inet-forth) -- An implementation of interaction nets as a Forth-like language.
+ - [Linr](http://cl-informatik.uibk.ac.at/users/sgimenez/lin/) -- A lightweight parallel computation server for interaction nets.
+ - [GoI-Visualizer](https://koko-m.github.io/GoI-Visualiser/) -- A simulation tool of the dynamic GoI abstract machine.
 
 ## Papers
 
