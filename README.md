@@ -242,6 +242,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf), [webarchive](http://web.archive.org/web/20251016071634/https://www.mat.uniroma3.it/users/pedicini/papers/subTFP2014.pdf)
  - Perrinel, Matthieu. "On context semantics and interaction nets." Proceedings of the Joint Meeting of the Twenty-Third EACSL Annual Conference on Computer Science Logic (CSL) and the Twenty-Ninth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS). 2014.
    <br>[URL](https://dl.acm.org/doi/pdf/10.1145/2603088.2603155)
+ - Jiresch, Eugen. "Towards a GPU-based implementation of interaction nets." arXiv preprint arXiv:1404.0076 (2014). $${\textbf{\color{red}efficiency}}$$ $${\textbf{\color{cyan}implementation}}$$
+   <br>[URL](https://arxiv.org/pdf/1404.0076), [webarchive](http://web.archive.org/web/20251017093231/https://arxiv.org/pdf/1404.0076)
 
 ### 2015
 
