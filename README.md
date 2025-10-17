@@ -158,6 +158,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
    <br>[URL](https://link.springer.com/chapter/10.1007/11417170_28)
  - Mackie, Ian, Jorge Sousa Pinto, and Miguel Vilaça. "Functional programming and program transformation with interaction nets." (2005).
    <br>[URL](https://www.researchgate.net/publication/228680206_Functional_programming_and_program_transformation_with_interaction_nets)
+ - Sinot, François-Régis, and Ian Mackie. "Macros for interaction nets: A conservative extension of interaction nets." Electronic Notes in Theoretical Computer Science 127.5 (2005): 153-169. $${\textbf{\color{thistle}programming}}$$
+   <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066105050188)
 
 ### 2006
 
