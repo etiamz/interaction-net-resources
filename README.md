@@ -189,6 +189,8 @@ For a more concise list, see [`marvinborner/interaction-net-resources`].
 
  - Hassan, Abubakar, Ian Mackie, and Shinya Sato. "Interaction nets: programming language design and implementation." Electronic Communications of the EASST 10 (2008). $${\textbf{\color{cyan}implementation}}$$ $${\textbf{\color{thistle}programming}}$$
    <br>[URL](https://www.user.tu-berlin.de/o.runge/tfs/workshops/gtvmt08/Program/paper_38.pdf), [webarchive](http://web.archive.org/web/20241210103945/https://www.user.tu-berlin.de/o.runge/tfs/workshops/gtvmt08/Program/paper_38.pdf)
+ - Mackie, Ian, and Shinya Sato. "A calculus for interaction nets based on the linear chemical abstract machine." Electronic Notes in Theoretical Computer Science 192.3 (2008): 59-70.
+   <br>[URL](https://www.sciencedirect.com/science/article/pii/S1571066108004210)
  - Béchet, Denis, and Sylvain Lippi. "Hard combinators." Electronic Notes in Theoretical Computer Science 203.1 (2008): 31-48.
    <br>[URL](https://www.researchgate.net/publication/222019408_Hard_combinators)
  - Almeida, José Bacelar, Jorge Sousa Pinto, and Miguel Vilaça. "Token-passing nets for functional languages." Electronic Notes in Theoretical Computer Science 204 (2008): 181-198.
